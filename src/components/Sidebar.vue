@@ -1,24 +1,15 @@
-<script setup>
-defineProps({
-    msg: {
-        type: String,
-        required: true
-    }
-})
-</script>
-
 <template>
     <nav>
         <a href="#">
-            <img alt="account" src="/public/account.png" />
+            <img alt="account" src="/account.png" />
             ACCOUNT
         </a>
         <a href="#">
-            <img alt="account" src="/public/add.png" />
+            <img alt="account" src="/add.png" />
             ADD TO-DO
         </a>
         <a href="#">
-            <img alt="account" src="/public/remove.png" />
+            <img alt="account" src="/remove.png" />
             REMOVE TO-DO
         </a>
     </nav>
