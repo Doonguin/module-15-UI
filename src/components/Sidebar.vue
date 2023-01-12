@@ -8,7 +8,7 @@
             <img alt="account" src="/add.png" />
             ADD TO-DO
         </a>
-        <a href="#">
+        <a href="#" name="remove">
             <img alt="account" src="/remove.png" />
             REMOVE TO-DO
         </a>

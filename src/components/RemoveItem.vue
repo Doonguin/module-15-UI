@@ -1,4 +1,4 @@
-<script>
+<script defer>
 export default {
     mounted() {
         
