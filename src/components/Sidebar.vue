@@ -13,8 +13,8 @@
             REMOVE TO-DO
         </a>
         <a href="#">
-            <img alt="log out" src="/logout.png" />
-            LOGOUT
+            <img alt="about" src="/about.png" />
+            ABOUT
         </a>
     </nav>
 </template>
